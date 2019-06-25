@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CMIM</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Colegio de Medicina Interna de México</string>
+
+    <string name="url_home">https://cmedicoscliente.azurewebsites.net/</string>
+    <string name="url_terms">https://www.linkedin.com/in/marlon-v/</string>
+    <string name="url_privacy">https://www.linkedin.com/in/marlon-v/</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_terms">Términos y Condiciones</string>
+    <string name="menu_privaci">Aviso de Privacidad</string>
+</resources>
