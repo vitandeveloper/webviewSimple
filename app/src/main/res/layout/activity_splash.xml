@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:background="@color/colorPrimaryDark">
+    android:background="@color/colorWhite">
 
     <ImageView
         android:id="@+id/image_logo"
@@ -12,7 +12,7 @@
         android:layout_height="150dp"
         android:layout_marginTop="8dp"
         android:layout_marginBottom="8dp"
-        android:src="@mipmap/ic_launcher"
+        android:src="@drawable/img_logo"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -23,9 +23,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="24dp"
-        android:textColor="@color/colorWhite"
         android:textSize="11sp"
         android:text="Version 1.0.0"
+        android:gravity="center"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />

@@ -182,7 +182,7 @@ public class MainActivity extends AppCompatActivity implements
         int id = item.getItemId();
 
         if (id == R.id.nav_home) {
-
+            mWebView.loadUrl(getString(R.string.url_home));
         } else if (id == R.id.nav_terms) {
             Intent i = new Intent(Intent.ACTION_VIEW);
             i.setData(Uri.parse(getString(R.string.url_terms)));

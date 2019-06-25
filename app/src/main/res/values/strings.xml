@@ -4,9 +4,9 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">Colegio de Medicina Interna de México</string>
 
-    <string name="url_home">https://cmedicoscliente.azurewebsites.net/</string>
-    <string name="url_terms">https://www.linkedin.com/in/marlon-v/</string>
-    <string name="url_privacy">https://www.linkedin.com/in/marlon-v/</string>
+    <string name="url_home">https://cmedicoscliente.azurewebsites.net/dashboard</string>
+    <string name="url_terms">https://colegiodemedicinainterna.azurewebsites.net/home/terminos</string>
+    <string name="url_privacy">https://colegiodemedicinainterna.azurewebsites.net/home/privacidad2</string>
 
     <string name="menu_home">Inicio</string>
     <string name="menu_terms">Términos y Condiciones</string>

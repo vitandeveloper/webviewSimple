@@ -1,5 +1,11 @@
 apply plugin: 'com.android.application'
 
+/**
+ * Firmas APP
+ * user  medicinainternamexico
+ * pass medicina123456
+ */
+
 android {
     compileSdkVersion 29
     defaultConfig {
